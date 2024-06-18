@@ -42,6 +42,19 @@ await ImageAsset("Controls", 460, 160, "/public/Submenu/costumes/Controls.png");
 await ImageAsset("Break_Line", 460, 80, "/public/Submenu/costumes/Break_Line.png");
 await ImageAsset("Functions", 460, 160, "/public/Submenu/costumes/Functions.png");
 await ImageAsset("Close", 55, 55, "/public/Submenu/costumes/Close.png");
+await ImageAsset("Description_1", 300, 300, "/public/Descriptions/costumes/Description_1.png");
+await ImageAsset("Description_2", 300, 300, "/public/Descriptions/costumes/Description_2.png");
+await ImageAsset("Description_3", 480, 360, "/public/Descriptions/costumes/Description_3.png");
+await ImageAsset("Description_4", 480, 360, "/public/Descriptions/costumes/Description_4.png");
+await ImageAsset("Description_5", 480, 360, "/public/Descriptions/costumes/Description_5.png");
+await ImageAsset("Description_6", 480, 360, "/public/Descriptions/costumes/Description_6.png");
+await ImageAsset("Description_7", 480, 360, "/public/Descriptions/costumes/Description_7.png");
+await ImageAsset("Description_8", 480, 360, "/public/Descriptions/costumes/Description_8.png");
+await ImageAsset("Description_9", 480, 360, "/public/Descriptions/costumes/Description_9.png");
+await ImageAsset("Description_10", 480, 360, "/public/Descriptions/costumes/Description_10.png");
+await ImageAsset("Description_11", 480, 360, "/public/Descriptions/costumes/Description_11.png");
+await ImageAsset("Description_12", 480, 360, "/public/Descriptions/costumes/Description_12.png");
+await ImageAsset("Box", 480, 360, "/public/Descriptions/costumes/Box.png");
 
 export {
     IMAGES,
