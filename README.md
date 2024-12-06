@@ -1,2 +1,2 @@
 # DJRicochet
-Dantes game that cool math games wants or whatever lol 
+A web based version of dante's game DJRicochet :)
